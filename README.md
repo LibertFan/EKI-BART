@@ -12,6 +12,8 @@ pip install --user fairseq==0.9.0
 Please refer to the github [repo](https://github.com/INK-USC/CommonGen) for data donwloading and some baselines. 
 
 We also provide our retrieved and preprocessed data in the [BaiduDisk](https://pan.baidu.com/s/1tLjF0kvPcxfdSG720TzpRQ) with code 36iv.
+In detail, all1v4 is retrieved from in-domain dataset, and wikiv4 is retrieved from out-of-domain dataset (wiki). 
+You should download the *data* from BaiduDisk and put them in this main directory.
 
 ## Running
 
