@@ -1,6 +1,6 @@
 # EKI-BART
 
-This is an implementation for *An Enhanced Knowledge Injection Model for Commonsense Generation* in COLING 2020.
+This is an implementation for *An Enhanced Knowledge Injection Model for Commonsense Generation* ([Paper](https://arxiv.org/abs/2012.00366)) in COLING 2020.
 
 
 ## Requirements and Installation
