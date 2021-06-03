@@ -2,8 +2,16 @@
 
 This is an implementation for *An Enhanced Knowledge Injection Model for Commonsense Generation* ([Paper](https://arxiv.org/abs/2012.00366)) in COLING 2020.
 
-
 ## Requirements and Installation
+
+```
+pip install --user fairseq==0.9.0
+```
+
+## Data Download
+Please refer to the github [repo](https://github.com/INK-USC/CommonGen) for data donwloading and some baselines. 
+
+We also provide our retrieved and preprocessed data in the [BaiduDisk](https://pan.baidu.com/s/1tLjF0kvPcxfdSG720TzpRQ) with code 36iv.
 
 ## Running
 
