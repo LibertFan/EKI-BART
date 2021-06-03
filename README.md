@@ -1,4 +1,9 @@
-### An Enhanced Knowledge Injection Model for Commonsense Generation ###
+# An Enhanced Knowledge Injection Model for Commonsense Generation
+
+
+## Requirements and Installation
+
+## Running
 
 Train the model.
 ```
